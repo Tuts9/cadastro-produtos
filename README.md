@@ -10,7 +10,7 @@ Este é um script que implementa um sistema que adiciona produtos a um banco de 
 
 -Biblioteca `Tkinter` (normalmente incluída na instalação padrão do Python)
 
--Biblioteca `Sqlite3` (normalamente incluída na instalação padrão do Python)
+-Biblioteca `Sqlite3` (normalmente incluída na instalação padrão do Python)
 
 -Biblioteca `FPDF` (é necessário instalá-la)
 
