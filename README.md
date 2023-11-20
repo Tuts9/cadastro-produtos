@@ -5,11 +5,17 @@ Este é um script que implementa um sistema que adiciona produtos a um banco de 
 ## Pré-requisitos
 
 -Python 3.x
+
 -Biblioteca `Customtkinter` (é necessário instalá-la)
+
 -Biblioteca Tkinter (normalmente incluída na instalação padrão do Python)
+
 -Biblioteca Sqlite3 (normalamente incluída na instalação padrão do Python)
+
 -Biblioteca `FPDF` (é necessário instalá-la)
+
 -Biblioteca `Pandas` (é necessário instalá-la)
+
 -Biblioteca `Unicodedata` (é necessário instalá-la)
 
 ## Como usar
